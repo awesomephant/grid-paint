@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/grid-paint/static/css/main.4997e940.chunk.css",
-    "main.js": "/grid-paint/static/js/main.9d58f270.chunk.js",
-    "main.js.map": "/grid-paint/static/js/main.9d58f270.chunk.js.map",
+    "main.css": "/grid-paint/static/css/main.bc2f6dfb.chunk.css",
+    "main.js": "/grid-paint/static/js/main.0e6004d5.chunk.js",
+    "main.js.map": "/grid-paint/static/js/main.0e6004d5.chunk.js.map",
     "runtime-main.js": "/grid-paint/static/js/runtime-main.8821b7ea.js",
     "runtime-main.js.map": "/grid-paint/static/js/runtime-main.8821b7ea.js.map",
-    "static/js/2.414de893.chunk.js": "/grid-paint/static/js/2.414de893.chunk.js",
-    "static/js/2.414de893.chunk.js.map": "/grid-paint/static/js/2.414de893.chunk.js.map",
+    "static/js/2.86fa1f06.chunk.js": "/grid-paint/static/js/2.86fa1f06.chunk.js",
+    "static/js/2.86fa1f06.chunk.js.map": "/grid-paint/static/js/2.86fa1f06.chunk.js.map",
     "index.html": "/grid-paint/index.html",
-    "precache-manifest.63c3811bac976fd2b86c935cf69b1b39.js": "/grid-paint/precache-manifest.63c3811bac976fd2b86c935cf69b1b39.js",
+    "precache-manifest.cc0146ade8a64ba0482fe283cc7d7e23.js": "/grid-paint/precache-manifest.cc0146ade8a64ba0482fe283cc7d7e23.js",
     "service-worker.js": "/grid-paint/service-worker.js",
-    "static/css/main.4997e940.chunk.css.map": "/grid-paint/static/css/main.4997e940.chunk.css.map"
+    "static/css/main.bc2f6dfb.chunk.css.map": "/grid-paint/static/css/main.bc2f6dfb.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.8821b7ea.js",
-    "static/js/2.414de893.chunk.js",
-    "static/css/main.4997e940.chunk.css",
-    "static/js/main.9d58f270.chunk.js"
+    "static/js/2.86fa1f06.chunk.js",
+    "static/css/main.bc2f6dfb.chunk.css",
+    "static/js/main.0e6004d5.chunk.js"
   ]
 }
